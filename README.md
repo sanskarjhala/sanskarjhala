@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar Jhala</h1>
 <h3 align="center">A passionate Full Stack (MERN) developer and Machine Learning Engineer from India</h3>
 
-<img align="center" alt="coding" width="400" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw08LOtEilUO4D5GfxtLE8KO&ust=1712846863030000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCr4YPyt4UDFQAAAAAdAAAAABAm">
+<img align="center" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 🔭 I’m currently working on **StudyNotion An Ed-Tech platform**
 
