@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **`Full Stack Java`**
+- 🌱 I’m currently learning **`Devops and Machine Learning`**
 
 - 💬 Ask me about **`Data Structure, MERN, C++, Python`**
 
@@ -50,6 +50,10 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![scikit-learn](https://img.shields.io/badge/sklearn-343deb?style=for-the-badge&logo=scikit-learn&logoColor=ffdd54)  
+![Matplotlib](https://img.shields.io/badge/matplotlib-eb3434?style=for-the-badge&logo=matplotlib&logoColor=ffdd54) 
+![numpy](https://img.shields.io/badge/numpy-544e05?style=for-the-badge&logo=Numpy&logoColor=ffdd54) 
+![pandas](https://img.shields.io/badge/pandas-070359?style=for-the-badge&logo=Pandas&logoColor=ffdd54) 
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -77,7 +81,7 @@
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
 
  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -87,10 +91,6 @@
 
 <br />
 
-# **📈 Activity Graph:**
-<p align="center">
-  
-[![](https://github-readme-activity-graph.vercel.app/graph?username=sanskarjhala&bg_color=000000&color=f2f2f2&line=5dff05&point=0011ff&area=true&hide_border=true)](https://github.com/sanskarjhala/github-readme-activity-graph)
 
 </p>
 <br />
