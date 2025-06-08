@@ -3,7 +3,7 @@
   <h1 align='center'>
   Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Sanskar Jhala 👨
 </h1>
-<h2>A passionate Full Stack Developer and Machine Learning Enthusiast from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
+<h2>A passionate Full Stack Developer and Machine Learning Engineer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
 </div> <br>
 
 <!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
@@ -13,9 +13,9 @@
 
 
 
-- 🌱 I’m currently learning **`Devops and Machine Learning`**
+- 🌱 I’m currently learning **`Devops and AI `**
 
-- 💬 Ask me about **`Data Structure, MERN, C++, Python`**
+- 💬 Ask me about **`Data Structure, MERN, Devops and AI`**
 
 - 🚀 Love to talk about **`Technology!`**
 
